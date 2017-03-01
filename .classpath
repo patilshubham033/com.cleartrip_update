@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/D folder/Qspider/Qspider/jar File/selenium-server-standalone-2.53.1.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Selenium setup1/selenium-java-2.50.1/selenium-2.50.1/selenium-java-2.50.1.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Selenium setup1/selenium-java-2.50.1/selenium-2.50.1/selenium-java-2.50.1-srcs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sai/git/ClearTrip/com.cleartrip/exel file/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sai/git/ClearTrip/com.cleartrip/exel file/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sai/git/ClearTrip/com.cleartrip/exel file/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sai/git/ClearTrip/com.cleartrip/exel file/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sai/git/ClearTrip/com.cleartrip/exel file/excelutils-1.41.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sai/git/ClearTrip/com.cleartrip/exel file/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sai/git/ClearTrip/com.cleartrip/exel file/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sai/git/ClearTrip/com.cleartrip/exel file/poi-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sai/git/ClearTrip/com.cleartrip/exel file/poi-examples-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sai/git/ClearTrip/com.cleartrip/exel file/poi-excelant-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sai/git/ClearTrip/com.cleartrip/exel file/poi-ooxml-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sai/git/ClearTrip/com.cleartrip/exel file/poi-ooxml-schemas-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sai/git/ClearTrip/com.cleartrip/exel file/poi-scratchpad-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sai/git/ClearTrip/com.cleartrip/exel file/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
